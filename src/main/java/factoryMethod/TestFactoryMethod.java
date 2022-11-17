@@ -13,6 +13,7 @@ public class TestFactoryMethod {
         System.out.println(car.toString());
     }
 
+
     public Car produceCar(String carName) {
         // 팩토리 메서드 패턴을 사용하기전
 //        Car car = null;
