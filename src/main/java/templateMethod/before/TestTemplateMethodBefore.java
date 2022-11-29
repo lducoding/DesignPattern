@@ -1,6 +1,6 @@
 package templateMethod.before;
 
-public class TestTemplateMethod {
+public class TestTemplateMethodBefore {
 
   public static void main(String[] args) {
     AICar myCar = new AICar();
